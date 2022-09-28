@@ -1,0 +1,9 @@
+kind: Baustein
+id: 41143437-2564-4031-b69c-ff45c0356ef9
+name: terraform-tfdp-higlyAvailableService
+category: tbd
+description: Product Highly Available Service
+owner: xgadlnd
+capability: tbd
+state: planned
+type: Terraform
